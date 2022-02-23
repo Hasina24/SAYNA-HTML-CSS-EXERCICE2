@@ -1,2 +1,2 @@
-# sayna-html-css-exercice2
+# sayna-html-css-exercice
 EXERCICE2
